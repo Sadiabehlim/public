@@ -1,0 +1,410 @@
+.nav{
+    font-weight: bold;
+
+}
+.nav1{
+    color: black;
+}
+a.nav1:hover{
+    color:blue
+}
+
+#icn{
+    margin-left: 170px;
+}
+.login{
+color: black;
+}
+a.login:hover{
+   color: blue;
+}
+.head2{
+    padding:50px 0px 0px 0px;
+    font-size: 45px;
+}
+.gt{
+    margin-right:710px;
+    margin-top: -48px;
+    padding:12px 15px 12px 15px;
+}
+.img{
+   width: 40vw;
+   height:80vh;
+   background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/ui-design.png);
+background-repeat: no-repeat;
+margin-top:-330px;
+margin-left: 270px;
+}
+.head3{
+    font-weight: bold;
+    padding:20px 20px 20px 20px ;
+    margin-top:60px;
+    margin-bottom:60px ;
+    margin-left:550px;
+    margin-right: 500px;
+}
+.icnn{
+font-size: 60px;
+margin:10px 100px 5px 100px ;
+}
+.head4{
+    
+    margin-left: 35px;
+    margin-top: -30px;
+}
+.he{
+font-size: 30px;
+}
+.pra{
+    color:grey;
+    font-size: 20px;
+}
+.head6{
+    margin-left: 500px;
+margin-top: 15px;
+}
+.five{
+    padding:20px 20px 20px 20px ;
+    margin:5px 0px 0px 150px  ;
+}
+.one{
+    padding:20px 20px 20px 20px ;
+    margin:5px 0px 0px 150px  ;
+}
+.two{
+    padding:20px 20px 20px 20px ;
+    margin:5px 0px 0px 150px;
+}
+.three{
+    padding:20px 20px 20px 20px ;
+    margin:5px 0px 0px 150px;
+}
+.four{
+    padding:20px 20px 20px 20px ;
+  margin:5px 0px 0px 150px;
+}
+.six{
+    position: absol;
+    padding:20px 20px 20px 20px ;
+    margin:9px 0px 60px 230px;
+}
+.seven{
+position: absolute;
+top:2065px;
+left:290px;
+    padding:20px 20px 20px 20px ;
+    margin:9px 0px 60px 250px;
+}
+.eight{
+    position:absolute;
+    top: 2065px;
+    left:482px;
+    padding:20px 20px 20px 20px ;
+    margin:9px 0px 60px 250px;
+}
+.nine{
+    position: absolute;
+    top: 2065px;
+    left:673px;
+    padding:20px 20px 20px 20px ;
+    margin:9px 0px 20px 250px;
+}
+.t2{
+    position: absolute;
+    top:32px;
+    left:20px;
+}
+.t3{
+    color:blue;
+    position: absolute;
+    top:32px;
+    left:3px;
+}
+.t4{
+    color:blue;
+    position: absolute;
+    top:60px;
+    left:3px;
+}
+.t5{
+    position: absolute;
+    top:60px;
+    left:22px;
+}
+.bt{
+    position: absolute;
+    top:2650px ;
+    left:150px;
+}
+.loc{
+width: 40vw;
+height:80vh;
+background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/digital-marketing.png);
+background-repeat: no-repeat;
+margin-top:50px;
+margin-left: 40px;
+}
+.en{
+    margin-top:5px;
+}
+
+
+.head11{
+    font-weight: bold;
+    padding:20px 20px 20px 20px ;
+    margin-top:60px;
+    margin-bottom:60px ;
+    margin-left:500px;
+    margin-right: 300px;
+}
+.hh2{
+    color: orangered;
+    position: absolute;
+    top:3040px;
+    left:450px;
+}
+.hh3{
+    position: absolute;
+    top:3110px;
+    left:440px;
+
+}
+.pb{
+    position: absolute;
+    top:3156px;
+    left:420px;
+}
+.aw{
+    position: absolute;
+    top:3040px;
+    left:650px;
+}
+.hh7{
+position: absolute;
+top:3110px;
+left:630px;
+}
+.hh8{
+    position: absolute;
+top:3108px;
+left:570px;
+}
+.dm
+{
+    position: absolute;
+    top:3038px;
+    left:820px;
+}
+.gm{
+    position: absolute;
+    top:3110px;
+    left:820px;
+}
+.nm{
+    position: absolute;
+    top:3153px;
+    left:820px;
+}
+.lm{
+    position: absolute;
+    top:3038px;
+    left:1000px;
+}
+.km{
+    position: absolute;
+    top:3105px;
+    left:990px;
+}
+.mm{
+    position: absolute;
+    top:3150px;
+    left:990px;
+
+}
+.meet{
+
+        font-weight: bold;
+        padding:20px 20px 20px 20px ;
+        margin-top:60px;
+        margin-bottom:60px ;
+       margin-left: 600px
+    }
+.how{
+    color:blue;
+    font-size:30px;
+    margin-top: 160px;
+    padding-top: 20px;
+    margin-left:10px;
+}
+.upp{
+    border-left: 1px solid grey;
+    padding-left:20px ;
+}
+
+.penn{
+    border-radius: 50%;
+    border:2px solid green;
+padding: 10px;
+    
+
+}
+.tag{
+    width: 650px;
+    height:110px ;
+    position: absolute;
+    top:4100px ;
+    left:600px;
+    padding: 10px;
+}
+h3{
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.pl{
+    position: absolute;
+    top:60px;
+    left:50px;
+}
+.chart{
+    width:650px;
+    height: 110px;
+    position: absolute;
+    top:4230px;
+    left:600px;
+    padding:8px;
+}
+
+li{
+    color: grey;
+}
+.crt{
+    border-radius: 50%;
+    border:2px solid green;
+    padding: 5px;
+}
+
+.pc{
+    position: absolute;
+    top:55px;
+    left:50px;
+}
+.like{
+    width:650px;
+    height: 110px;
+    position: absolute;
+    top:4360px;
+    left:600px;
+    padding: 8px;
+}
+.lke{
+    border-radius: 50%;
+    border:2px solid green;
+    padding: 10px;
+}
+.lk
+{
+    position: absolute;
+    top:70px;
+    left:50px;
+}
+.ht{
+    font-weight: bold;
+    padding:20px 20px 20px 20px ;
+    margin-top:60px;
+    margin-bottom:60px ;
+   margin-left: 330px
+}
+.bs{
+    margin-top: 30px;
+    margin-left:50px ;
+}
+.ggg{
+    font-size: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.para1{
+    margin-left: 50px;
+}
+.da{
+    color: yellowgreen;
+    font-size:50px ;
+    
+    
+}
+.user{
+    font-size: 50px;
+   
+}
+.bell{
+    font-size: 50px;
+}
+
+.sett{
+font-size:50px;
+}
+    
+.cass{
+   font-size:50px;
+}
+.mess{
+   color: yellowgreen;
+   font-size: 50px;
+}
+.doll{
+    margin-top: 190px;
+    margin-left:60px;
+}
+.jo1{
+    border-top-left-radius:4px ;
+    border-top-right-radius: 4px;
+    margin-top: 20px;
+}
+.jo2{
+    border-top-left-radius:4px ;
+    border-top-right-radius: 4px;
+    margin-top: 20px;
+}
+.jo3{
+    border-top-left-radius:4px ;
+    border-top-right-radius: 4px;
+    margin-top: 20px;
+}
+.an{
+    text-decoration: none;
+}
+a.an:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.na{
+    text-decoration: none;
+}
+.na:hover{
+    cursor: pointer;
+    color: blue;
+}
+button.blue:hover{
+    background:blue;
+color:white;
+}
+.go1{
+    margin-top:-15px;
+}
+.go2{
+    margin-top:-20px;
+}
+.go3{
+    margin-top:-20px;
+}
+
+
+
+
+  
+
+
+
+
+
+
